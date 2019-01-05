@@ -1,0 +1,25 @@
+{
+  "name": "octoprint_exporter",
+  "version": "1.0.0",
+  "description": "Octoprint exporter for Prometheus.io",
+  "main": "octoprint_exporter.js",
+  "scripts": {
+    "start": "node octoprint_exporter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wywywywy/octoprint_exporter.git"
+  },
+  "author": "wywywywy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wywywywy/octoprint_exporter/issues"
+  },
+  "homepage": "https://github.com/wywywywy/octoprint_exporter#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "moment": "^2.23.0",
+    "node-fetch": "^2.3.0",
+    "prom-client": "^11.2.1"
+  }
+}
