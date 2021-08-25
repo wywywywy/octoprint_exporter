@@ -1,4 +1,4 @@
-Octoprint exporter for Prometheus.io, written in Node.js 8.
+Octoprint exporter for Prometheus.io, written in Node.js 12.
 
 This exporter provides metrics for the current print job and tools/bed in Octoprint.
 

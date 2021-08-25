@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/wywywywy/octoprint_exporter#readme",
   "dependencies": {
-    "command-line-args": "^5.0.2",
-    "moment": "^2.23.0",
-    "node-fetch": "^2.3.0",
-    "prom-client": "^11.2.1"
+    "command-line-args": "^5.2.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "prom-client": "^11.5.3"
   }
 }
